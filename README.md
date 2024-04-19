@@ -39,6 +39,12 @@ For example:
 ![image](https://github.com/prss-io/blank-theme/assets/25509135/41397b34-1b39-4cc4-a118-c67316b7d665)
 ![image](https://github.com/prss-io/blank-theme/assets/25509135/0b045d89-0b9d-40f8-8d30-f2dd221a388e)
 
+Alternatively, you can apply this code to all pages of your site:
+
+![image](https://github.com/prss-io/blank-theme/assets/25509135/5f307622-5466-41ac-b3dd-fc1be1312fc1)
+![image](https://github.com/prss-io/blank-theme/assets/25509135/6a54e349-5acd-4d5e-910d-d4114a44a3c3)
+
+
 <div align="right">
   <p><a href="https://prss.io"><img src="https://i.imgur.com/5OQD7eL.png" width="130" /></a></p>
 </div>
