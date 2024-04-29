@@ -1,11 +1,12 @@
 {
   "name": "@hodgef/blank-theme",
   "title": "Blank",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Francisco Hodge",
   "homepage": "https://github.com/prss-io/blank-theme",
   "license": "MIT",
   "type": "blog",
   "parser": "react",
-  "templates": ["page"]
+  "templates": ["page"],
+  "siteVars": []
 }
