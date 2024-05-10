@@ -9,7 +9,9 @@ When you first build your page with the theme, you'll notice nothing shows up. T
 
 The [PRSS Client Library](https://github.com/prss-io/prss-client/blob/master/src/index.js), is already loaded with the Theme. Use its methods to render your content.
 
-For example:
+#### Example
+> Note: For a more detailed example, check out the [v1.15.0 release notes](https://github.com/hodgef/PRSS/releases/tag/v1.15.0).
+
 ```html
 <script>
   const post = PRSS.getProp("item");
