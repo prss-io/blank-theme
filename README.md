@@ -1,6 +1,6 @@
 <p>
   <img src="build/thumbnail.png" width="500" />
-  <h2>Blank</h2>
+  <h2>Blank (CSR - Legacy)</h2>
   <blockquote>Absolute flexibility. All you need to let your imagination flow.</blockquote>
 </p>
 

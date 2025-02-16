@@ -1,7 +1,7 @@
 {
   "name": "@hodgef/blank-theme",
-  "version": "2.0.4",
-  "description": "Blank Theme for PRSS",
+  "version": "2.0.5",
+  "description": "CSR Blank Theme for PRSS (Legacy)",
   "main": "build/index.js",
   "repository": {
     "type": "git",
